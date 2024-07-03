@@ -1,0 +1,8 @@
+.top_center {
+    position: fixed; /* or absolute */
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    /* background-color: lightblue; */
+    padding: 10px;
+}
